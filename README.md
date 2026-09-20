@@ -1,10 +1,10 @@
 # High-throughput-screening-of-phage-antibiotic-interactions
 
-This is the data and manuscript accompanying Phage Tor is a potent, broad-host range candidate for inclusion in cocktails targeting Pseudomonas aeruginosa. Please note, so that the manuscript is not published in advance of a BiorXiv submission, the quarto document itself will be uploaded when possible - until this time, this repository will only include raw data and the figures.
+This is the data and manuscript accompanying Chapter 2 of my PhD thesis; High throughput screening of phage-antibiotic interactions. Please note, so that the manuscript is not published in advance of submission, the quarto document itself will be uploaded when possible - until this time, this repository will only include raw data.
 
 Document creation, data visualisation, and associated data analysis was generated in Quarto using RStudio. All data is located within the /rawdata directory, and organised into folders dependent on where they lie in the manuscript. Should quarto be running correctly, the entire manuscript should be re-creatable.
 
-Although the session info is listed in supplementary text 2, it is auto-generated based on your R session, so I have pasted my session below and it is in the session.log file in this directory. Most importantly the R version was R 4.4.1, RStudio version 2023.06.0 Build 421, and Quarto version 1.4.554.
+Session info is auto-generated based on your R session, so I have pasted my session below. Most importantly the R version was R 4.4.1, RStudio version 2023.06.0 Build 421, and Quarto version 1.4.554.
 
 R version 4.4.1 (2024-06-14 ucrt)
 Platform: x86_64-w64-mingw32/x64
