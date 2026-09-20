@@ -1,0 +1,108 @@
+{
+    "ordering": [
+        [
+            "A1"
+        ],
+        [
+            "A2"
+        ],
+        [
+            "A3"
+        ],
+        [
+            "A4"
+        ]
+    ],
+    "brand": {
+        "brand": "analytical sales",
+        "brandId": [
+            "Deep Well Reservoir",
+            "Four Columns",
+            "96733"
+        ]
+    },
+    "metadata": {
+        "displayName": "Analytical Sales 4 Reservoir 73000 µL",
+        "displayCategory": "reservoir",
+        "displayVolumeUnits": "µL",
+        "tags": []
+    },
+    "dimensions": {
+        "xDimension": 127.76,
+        "yDimension": 85.47,
+        "zDimension": 44.04
+    },
+    "wells": {
+        "A1": {
+            "depth": 42.08,
+            "totalLiquidVolume": 73000,
+            "shape": "rectangular",
+            "xDimension": 26.11,
+            "yDimension": 71,
+            "x": 23.06,
+            "y": 42.97,
+            "z": 1.96
+        },
+        "A2": {
+            "depth": 42.08,
+            "totalLiquidVolume": 73000,
+            "shape": "rectangular",
+            "xDimension": 26.11,
+            "yDimension": 71,
+            "x": 50.06,
+            "y": 42.97,
+            "z": 1.96
+        },
+        "A3": {
+            "depth": 42.08,
+            "totalLiquidVolume": 73000,
+            "shape": "rectangular",
+            "xDimension": 26.11,
+            "yDimension": 71,
+            "x": 77.06,
+            "y": 42.97,
+            "z": 1.96
+        },
+        "A4": {
+            "depth": 42.08,
+            "totalLiquidVolume": 73000,
+            "shape": "rectangular",
+            "xDimension": 26.11,
+            "yDimension": 71,
+            "x": 104.06,
+            "y": 42.97,
+            "z": 1.96
+        }
+    },
+    "groups": [
+        {
+            "metadata": {
+                "wellBottomShape": "v"
+            },
+            "wells": [
+                "A1",
+                "A2",
+                "A3",
+                "A4"
+            ]
+        }
+    ],
+    "parameters": {
+        "format": "irregular",
+        "quirks": [
+            "centerMultichannelOnWells",
+            "touchTipDisabled"
+        ],
+        "isTiprack": false,
+        "isMagneticModuleCompatible": false,
+        "loadName": "analyticalsales_4_reservoir_73000ul"
+    },
+    "namespace": "custom_beta",
+    "version": 1,
+    "schemaVersion": 2,
+    "cornerOffsetFromSlot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
